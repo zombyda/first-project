@@ -33,6 +33,6 @@ console.log(Object.entries(item4));
 
 console.log(item4);
 item4.showPrice();
-
+console.log("추가");
 
 document.getElementById("root").innerHTML = img+text;
